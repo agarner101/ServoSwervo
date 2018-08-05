@@ -1,7 +1,7 @@
 # Arduino ServoSwervo
-Sero example using Arduino.
+Servo example using Arduino.
 
-<img src="https://i.imgur.com/kp6GWED.gifv" width="80%"/>
+<img src="https://i.imgur.com/kp6GWED.gif" width="80%"/>
 
 ### Components
 1. [Arduino Uno R3](https://www.adafruit.com/product/2488)
